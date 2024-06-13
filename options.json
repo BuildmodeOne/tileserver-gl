@@ -6,7 +6,8 @@
         "styles": "styles",
         "mbtiles": "data",
         "pmtiles": "data"
-      }
+      },
+      "frontPage": false
     },
     "styles": {
       "default": {
