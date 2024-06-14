@@ -5,7 +5,8 @@
         "fonts": "fonts",
         "styles": "styles",
         "mbtiles": "data",
-        "pmtiles": "data"
+        "pmtiles": "data",
+        "sprites": "sprites"
       },
       "frontPage": false
     },

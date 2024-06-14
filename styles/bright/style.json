@@ -11,7 +11,7 @@
       "url":"mbtiles://{v3}"
     }
   },
-  "sprite": "{styleJsonFolder}/{style}",
+  "sprite": "bright/sprite",
   "glyphs": "{fontstack}/{range}.pbf",
   "layers": [
     {
