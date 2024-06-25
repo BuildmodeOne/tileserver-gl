@@ -12,37 +12,19 @@
     },
     "styles": {
       "default": {
-        "style": "default/style.json",
-        "tilejson": {
-          "bounds": [
-            8.974646,
-            47.22839,
-            14.09027,
-            50.56779
-          ]
-        }
+        "style": "default/style.json"
+      },
+      "light": {
+        "style": "light/style.json"
+      },
+      "dark": {
+        "style": "dark/style.json"
       },
       "bright": {
-        "style": "bright/style.json",
-        "tilejson": {
-          "bounds": [
-            8.974646,
-            47.22839,
-            14.09027,
-            50.56779
-          ]
-        }
+        "style": "bright/style.json"
       },
       "merge": {
-        "style": "merge/style.json",
-        "tilejson": {
-          "bounds": [
-            8.974646,
-            47.22839,
-            14.09027,
-            50.56779
-          ]
-        }
+        "style": "merge/style.json"
       }
     },
     "data": {
